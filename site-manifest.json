@@ -1,0 +1,37 @@
+{
+  "site": "routes",
+  "name": {
+    "zh": "茶路",
+    "en": "Tea routes"
+  },
+  "domain": "routes.chapu.org",
+  "contentMode": "production",
+  "deployMode": "production",
+  "coreVersion": "1.0.0",
+  "uiVersion": "1.0.0",
+  "brandVersion": "1.0.0",
+  "generatedAt": "2026-11-25T07:14:32.177Z",
+  "pageCount": 72,
+  "kinds": {
+    "home": 2,
+    "catalog": 2,
+    "regionHub": 2,
+    "region": 8,
+    "search": 2,
+    "about": 2,
+    "contribute": 2,
+    "detail": 52
+  },
+  "entryCounts": {
+    "route": {
+      "zh": 26,
+      "en": 26
+    }
+  },
+  "searchRecords": 52,
+  "issues": {
+    "errors": 0,
+    "warnings": 0,
+    "items": []
+  }
+}
