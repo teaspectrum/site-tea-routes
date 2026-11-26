@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://chapuorg.github.io/site-tea-routes/sitemap.xml
+Sitemap: https://routes.chapu.org/sitemap.xml
