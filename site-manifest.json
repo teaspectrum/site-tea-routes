@@ -6,11 +6,11 @@
   },
   "domain": "routes.chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T06:15:11.323Z",
+  "generatedAt": "2026-11-26T00:35:40.104Z",
   "pageCount": 86,
   "kinds": {
     "home": 2,
