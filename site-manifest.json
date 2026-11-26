@@ -6,29 +6,29 @@
   },
   "domain": "routes.chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-25T08:21:03.045Z",
-  "pageCount": 72,
+  "generatedAt": "2026-11-26T00:35:40.104Z",
+  "pageCount": 86,
   "kinds": {
     "home": 2,
     "catalog": 2,
     "regionHub": 2,
-    "region": 8,
+    "region": 10,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 52
+    "detail": 64
   },
   "entryCounts": {
     "route": {
-      "zh": 26,
-      "en": 26
+      "zh": 32,
+      "en": 32
     }
   },
-  "searchRecords": 52,
+  "searchRecords": 64,
   "issues": {
     "errors": 0,
     "warnings": 0,
